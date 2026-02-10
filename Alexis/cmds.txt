@@ -1,0 +1,19 @@
+git add [filename]
+
+git commit -m "note"
+
+git branch -M [branchname]
+
+git push -u origin [branchname]
+
+git clone [url]
+-- Clone existing repository
+
+git init
+-- Creates a repository in the cd
+
+git merge [branchname]
+-- Merge specified branch to current one
+
+git pull
+-- Fetch & merge.
