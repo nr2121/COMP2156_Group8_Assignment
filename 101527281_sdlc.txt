@@ -1,0 +1,3 @@
+DevOps is a bridge between development (Dev) and IT operations (Ops) that works to improve code/software workflows involving multiple people, dependencies, etc.
+
+It involves the automation of software infrastructure, testing, and deployment through tools such as git, Docker, Ansible, and Azure.
