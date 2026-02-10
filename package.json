@@ -1,0 +1,21 @@
+{
+  "name": "COMP2156_Group8_Assignment",
+  "version": "1.0.0",
+  "description": "COMP2156 Group 8 - Assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warn: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nr2121/COMP2156_Group8_Assignment"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nr2121/COMP2156_Group8_Assignment/issues"
+  },
+  "homepage": "https://github.com/nr2121/COMP2156_Group8_Assignment#readme"
+}
