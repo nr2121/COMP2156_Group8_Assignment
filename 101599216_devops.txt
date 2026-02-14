@@ -1,6 +1,6 @@
 COMP2156 DEVOPS COURSE
 
 The COMP2156 DevOps Course is part of the Computer Systems Technician & Computer Systems Technology Programs at George Brown College.
-It is offered in the fourth semester of the programs.
+The DevOps course is offered in the fourth semester of the programs.
 Students learn about data formats and types such as XML, JavaScript, JSON, YAML.
 Students gain experience using DevOps tools such as Ansible and Git.
