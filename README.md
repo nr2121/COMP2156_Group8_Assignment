@@ -7,7 +7,7 @@ Leader: Nazaleen Rahman (101599216)
 
 Member: Alexis Mai (101527281)
 
-Member:
+Member: Mehtap Kirsan (101453811)
 
 Member:
 
