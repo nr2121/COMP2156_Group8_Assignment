@@ -1,3 +1,2 @@
-COMP2156 DevOps is a course that teaches the importance of DevOps in enterprise-level programming.
-
-# todo: add more?
+COMP2156 DevOps is a course that teaches the importance of DevOps in enterprise-level programming. 
+DevOps improves collaboration between development and operations teams to deliver software faster and more reliably.
