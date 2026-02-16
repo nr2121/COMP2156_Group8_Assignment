@@ -1,3 +1,4 @@
 ﻿Learning DevOps is important in the Software Development Life Cycle (SDLC) because it integrates development and operations processes.
+DevOps practices such as continuous integration and continuous deployment help reduce errors, improve quality, and accelerate product delivery.
 
 
