@@ -11,7 +11,7 @@ Member: Mehtap Kirsan (101453811)
 
 Member: Matthew Lowe (101597021)
 
-Member:
+Member: Raisa Tahsin (101516179)
 
 Member:
 
