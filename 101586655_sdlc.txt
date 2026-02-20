@@ -5,3 +5,5 @@ This has become life changing and has made me think what more I can learn in thi
 DevOps has become important to me while taking this course.
 It bridges thea gap between software development and IT operations.
 DevOps improves by encouraging continuous integration, continuous testing and continuous deployment.
+Collaboration and automation are core principles of DevOps.
+Collaboration ensures that developers, testers and operation teams work together instead of in isolation.
