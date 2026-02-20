@@ -1,2 +1,4 @@
 DevOps plays an important role in the software development life cycle.
 It helps teams deliver software faster and more reliably.
+Even for this assignment my group members and I are able to quickly upload our information for each other to see.
+This has become life changing and has made me think what more I can learn in this course"
