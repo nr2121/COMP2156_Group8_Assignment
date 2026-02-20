@@ -4,3 +4,5 @@ In this course I have become familiar with github compared to prior courses.
 Taking COMP2156 has taught me a different skill and something that I could use in the future.
 The course covers many core DevOps concepts such as collaboration, continuous integration, continuous delivery and infrastructure automation.
 Devops emphasizes shared responsibility and faster feedback.
+COMP2156 introduces various tools used in DevOPs workflows, including github and gitbash.
+Automation plays a key role by handling tasks such as code testing, building and deployment.
