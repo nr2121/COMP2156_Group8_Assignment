@@ -1,0 +1,2 @@
+COMP2156 is a DevOps course that teaches modern software development practices.
+The course has focused on automation, version control and continuous integration.
