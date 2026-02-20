@@ -2,3 +2,5 @@ COMP2156 is a DevOps course that teaches modern software development practices.
 The course has focused on automation, version control and continuous integration.
 In this course I have become familiar with github compared to prior courses.
 Taking COMP2156 has taught me a different skill and something that I could use in the future.
+The course covers many core DevOps concepts such as collaboration, continuous integration, continuous delivery and infrastructure automation.
+Devops emphasizes shared responsibility and faster feedback.
