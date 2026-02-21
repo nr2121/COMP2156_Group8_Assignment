@@ -1,0 +1,9 @@
+DevOps plays an important role in the software development life cycle.
+It helps teams deliver software faster and more reliably.
+Even for this assignment my group members and I are able to quickly upload our information for each other to see.
+This has become life changing and has made me think what more I can learn in this course"
+DevOps has become important to me while taking this course.
+It bridges thea gap between software development and IT operations.
+DevOps improves by encouraging continuous integration, continuous testing and continuous deployment.
+Collaboration and automation are core principles of DevOps.
+Collaboration ensures that developers, testers and operation teams work together instead of in isolation.
